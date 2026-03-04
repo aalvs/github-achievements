@@ -1,7 +1,3 @@
-Aqui está a tradução completa do seu `README.md` para português, mantendo toda a formatação original, links e caminhos de imagens.
-
----
-
 # 🏆 Guia de Conquistas e Badges do GitHub 🏆
 
 Bem-vindo ao repositório de Conquistas do GitHub! Aqui você encontrará tudo o que precisa saber sobre as **Badges (Medalhas) do GitHub**, incluindo como ganhá-las, o que significam e muito mais. O GitHub introduziu as medalhas para celebrar diversos marcos e contribuições feitas em projetos de código aberto e na plataforma.
