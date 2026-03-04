@@ -3,17 +3,21 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://aalvs.github.io/github-achievements",
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
     "express": "^4.21.2",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.577.0",
     "motion": "^12.23.24",
     "react": "^19.0.0",
