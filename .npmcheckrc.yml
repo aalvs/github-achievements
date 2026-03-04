@@ -1,0 +1,4 @@
+# .npmcheckrc
+
+depcheck:
+  ignoreMatches: ["postcss", "autoprefixer", "typescript", "tailwindcss"]
